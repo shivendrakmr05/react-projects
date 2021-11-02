@@ -5,14 +5,14 @@ import AddTodo from './AddTodo';
 import TodoList from './TodoList';
 
 const Container = styled.div`
-  background-color: #f1f1f1;
+  background-color: #f6f6f3;
   margin: 0;
   min-height: 100vh;
 `;
 
 const Paper = styled.div`
   width: 480px !important;
-  background-color: white;
+  background-color: grey;
 `;
 
 // Main app structure
